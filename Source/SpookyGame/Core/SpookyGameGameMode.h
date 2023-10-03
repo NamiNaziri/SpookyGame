@@ -6,7 +6,7 @@
 #include "GameFramework/GameModeBase.h"
 #include "SpookyGameGameMode.generated.h"
 
-UCLASS(minimalapi)
+UCLASS()
 class ASpookyGameGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
